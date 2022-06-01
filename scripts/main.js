@@ -11,6 +11,7 @@ function tocaSomClap(){
 }
 
 
+document.querySelector('.tecla_pom').onclick=tocaSomPom;
 
-document.querySelector('.tecla_pom');
+
 
