@@ -1,12 +1,11 @@
 function tocaSom(idElementAudio){
   const elemento =  document.querySelector(idElementAudio);
 
-  if( elemento != null  ){
-
+  if( elemento != null && elemento.localName === "audio" ){
     console.log("Elemento existe e emite som");
     elemento.play();
   } else {
-    console.log('Elemento não existe!')
+    console.log('Elemento invalido!')
   }
 }
 
