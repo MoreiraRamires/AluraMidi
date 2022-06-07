@@ -19,5 +19,3 @@ O Alura Midi é um instrumento musical de interface digital, onde a cada botão 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
 ---
-
-# Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
